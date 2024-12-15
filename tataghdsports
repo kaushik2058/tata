@@ -1,7 +1,3 @@
-#EXTM3U
-#playlist by @yuvraj824
-#for testing only
-
 #EXTINF:-1 tvg-id="121" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="Lifestyle",Tata Play Fitness
 #EXTVLCOPT:http-user-agent=yuvi bhai
 https://tp.yg048.workers.dev/ch/121.m3u8
@@ -197,7 +193,7 @@ https://tp.yg048.workers.dev/ch/7.m3u8
 #EXTINF:-1 tvg-id="120" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="Movies",SONY MAX 2
 #EXTVLCOPT:http-user-agent=yuvi bhai
 https://tp.yg048.workers.dev/ch/120.m3u8
-#EXTINF:-1 tvg-id="276" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="Movies",WoW Cinema One
+#EXTINF:-1 tvg-id="276" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://i.postimg.cc/mkxbmSvQ/photo-2024-11-25-13-25-21.jpg" group-title="Movies",WoW Cinema One
 #EXTVLCOPT:http-user-agent=yuvi bhai
 https://tp.yg048.workers.dev/ch/276.m3u8
 #EXTINF:-1 tvg-id="194" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" group-title="Movies",Dangal 2
