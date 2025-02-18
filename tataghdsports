@@ -132,6 +132,30 @@ https://daddy.nayeem-parvez.workers.dev/638.m3u8
 #EXTINF:-1 tvg-id="Nova.Sports.News.gr" tvg-name="Nova Sports News Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-news-gr.png" group-title="All Channels",Nova Sports News Greece
 https://daddy.nayeem-parvez.workers.dev/639.m3u8
 
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="All Channels",Fox Sports 1
+https://daddy.nayeem-parvez.workers.dev/39.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="All Channels",Fox Sports 2
+https://daddy.nayeem-parvez.workers.dev/758.m3u8
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="All Channels",FOX Sports 502
+https://daddy.nayeem-parvez.workers.dev/820.m3u8
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-503-au.png?raw=true" group-title="All Channels",FOX Sports 503
+https://daddy.nayeem-parvez.workers.dev/821.m3u8
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="All Channels",FOX Sports 504
+https://daddy.nayeem-parvez.workers.dev/822.m3u8
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="All Channels",FOX Sports 505
+https://daddy.nayeem-parvez.workers.dev/823.m3u8
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-506-au.png" group-title="All Channels",FOX Sports 506
+https://daddy.nayeem-parvez.workers.dev/824.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="FOX Sports 507" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="All Channels",FOX Sports 507
+https://daddy.nayeem-parvez.workers.dev/825.m3u8
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-premium-mx.png" group-title="All Channels",Fox Sports Premium MX
+https://daddy.nayeem-parvez.workers.dev/830.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Sur).(FOXSP2HD).cl" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="All Channels",Fox Sports 2 Argentina
+https://daddy.nayeem-parvez.workers.dev/788.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).cl" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" group-title="All Channels",Fox Sports 3 Argentina
+https://daddy.nayeem-parvez.workers.dev/789.m3u8
+
+
 
 
 
