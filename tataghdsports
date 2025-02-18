@@ -154,9 +154,116 @@ https://daddy.nayeem-parvez.workers.dev/830.m3u8
 https://daddy.nayeem-parvez.workers.dev/788.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).cl" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" group-title="All Channels",Fox Sports 3 Argentina
 https://daddy.nayeem-parvez.workers.dev/789.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="All Channels",TUDN
+https://daddy.nayeem-parvez.workers.dev/66.m3u8
 
+#EXTINF:-1 tvg-id="RMCSport1(src01).fr" tvg-name="RMC Sport 1 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-sport-1-fr.png" group-title="All Channels",RMC Sport 1 France
+https://daddy.nayeem-parvez.workers.dev/119.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-sport-2-fr.png" group-title="All Channels",RMC Sport 2 France
+https://daddy.nayeem-parvez.workers.dev/120.m3u8
 
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.1HD.gr" tvg-name="Cosmote Sport 1 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png" group-title="All Channels",Cosmote Sport 1 Greece
+https://daddy.nayeem-parvez.workers.dev/622.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.2HD.gr" tvg-name="Cosmote Sport 2 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-2-gr.png" group-title="All Channels",Cosmote Sport 2 Greece
+https://daddy.nayeem-parvez.workers.dev/623.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.3HD.gr" tvg-name="Cosmote Sport 3 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-3-gr.png" group-title="All Channels",Cosmote Sport 3 Greece
+https://daddy.nayeem-parvez.workers.dev/624.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.4HD.gr" tvg-name="Cosmote Sport 4 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-4-gr.png" group-title="All Channels",Cosmote Sport 4 Greece
+https://daddy.nayeem-parvez.workers.dev/625.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.5HD.gr" tvg-name="Cosmote Sport 5 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-5-gr.png" group-title="All Channels",Cosmote Sport 5 Greece
+https://daddy.nayeem-parvez.workers.dev/626.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.6HD.gr" tvg-name="Cosmote Sport 6 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-6-gr.png" group-title="All Channels",Cosmote Sport 6 Greece
+https://daddy.nayeem-parvez.workers.dev/627.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.7HD.gr" tvg-name="Cosmote Sport 7 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-7-gr.png" group-title="All Channels",Cosmote Sport 7 Greece
+https://daddy.nayeem-parvez.workers.dev/628.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.8HD.gr" tvg-name="Cosmote Sport 8 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-8-gr.png" group-title="All Channels",Cosmote Sport 8 Greece
+https://daddy.nayeem-parvez.workers.dev/629.m3u8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.9HD.gr" tvg-name="Cosmote Sport 9 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="All Channels",Cosmote Sport 9 Greece
+https://daddy.nayeem-parvez.workers.dev/630.m3u8
 
+#EXTINF:-1 tvg-id="Astro.SuperSport.1.my" tvg-name="Astro SuperSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png" group-title="All Channels",Astro SuperSport 1
+https://daddy.nayeem-parvez.workers.dev/123.m3u8
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png" group-title="All Channels",Astro SuperSport 2
+https://daddy.nayeem-parvez.workers.dev/124.m3u8
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png" group-title="All Channels",Astro SuperSport 3
+https://daddy.nayeem-parvez.workers.dev/125.m3u8
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png" group-title="All Channels",Astro SuperSport 4
+https://daddy.nayeem-parvez.workers.dev/126.m3u8
+#EXTINF:-1 tvg-id="ACTION.za" tvg-name="SuperSport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="All Channels",SuperSport Action
+https://daddy.nayeem-parvez.workers.dev/420.m3u8
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="Supersport Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="All Channels",Supersport Football
+https://daddy.nayeem-parvez.workers.dev/56.m3u8
+#EXTINF:-1 tvg-id="GOLF.za" tvg-name="SuperSport Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" group-title="All Channels",SuperSport Golf
+https://daddy.nayeem-parvez.workers.dev/422.m3u8
+#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="SuperSport Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="All Channels",SuperSport Grandstand
+https://daddy.nayeem-parvez.workers.dev/412.m3u8
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="SuperSport LaLiga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="All Channels",SuperSport LaLiga
+https://daddy.nayeem-parvez.workers.dev/415.m3u8
+#EXTINF:-1 tvg-id="MAXIMO.1.za" tvg-name="SuperSport MaXimo 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="All Channels",SuperSport MaXimo 1
+https://daddy.nayeem-parvez.workers.dev/572.m3u8
+#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-name="SuperSport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="All Channels",SuperSport Motorsport
+https://daddy.nayeem-parvez.workers.dev/424.m3u8
+#EXTINF:-1 tvg-id="SS.Premier.League.za" tvg-name="SuperSport Premier league" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="All Channels",SuperSport Premier league
+https://daddy.nayeem-parvez.workers.dev/414.m3u8
+#EXTINF:-1 tvg-id="PSL.za" tvg-name="SuperSport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" group-title="All Channels",SuperSport PSL
+https://daddy.nayeem-parvez.workers.dev/413.m3u8
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-name="SuperSport Rugby" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="All Channels",SuperSport Rugby
+https://daddy.nayeem-parvez.workers.dev/421.m3u8
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="SuperSport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="All Channels",SuperSport Tennis
+https://daddy.nayeem-parvez.workers.dev/423.m3u8
+
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-english-mea.png" group-title="All Channels",beIN Sports MENA English 1
+https://daddy.nayeem-parvez.workers.dev/61.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-english-mea.png" group-title="All Channels",beIN Sports MENA English 2
+https://daddy.nayeem-parvez.workers.dev/90.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-english-mea.png" group-title="All Channels",beIN Sports MENA English 3
+https://daddy.nayeem-parvez.workers.dev/46.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="All Channels",beIN Sports MENA 1
+https://daddy.nayeem-parvez.workers.dev/91.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="All Channels",beIN Sports MENA 2
+https://daddy.nayeem-parvez.workers.dev/92.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="All Channels",beIN Sports MENA 3
+https://daddy.nayeem-parvez.workers.dev/93.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="All Channels",beIN Sports MENA 4
+https://daddy.nayeem-parvez.workers.dev/94.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="All Channels",beIN Sports MENA 5
+https://daddy.nayeem-parvez.workers.dev/95.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="All Channels",beIN Sports MENA 6
+https://daddy.nayeem-parvez.workers.dev/96.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="All Channels",beIN Sports MENA 7
+https://daddy.nayeem-parvez.workers.dev/97.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-premium-mea.png" group-title="All Channels",beIN Sports MENA Premium 1
+https://daddy.nayeem-parvez.workers.dev/98.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-premium-mea.png" group-title="All Channels",beIN Sports MENA Premium 2
+https://daddy.nayeem-parvez.workers.dev/99.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX3_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-premium-mea.png" group-title="All Channels",beIN Sports MENA Premium 3
+https://daddy.nayeem-parvez.workers.dev/100.m3u8
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="All Channels",beIN SPORTS Australia 1
+https://daddy.nayeem-parvez.workers.dev/491.m3u8
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="All Channels",beIN SPORTS Australia 2
+https://daddy.nayeem-parvez.workers.dev/492.m3u8
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="All Channels",beIN SPORTS Australia 3
+https://daddy.nayeem-parvez.workers.dev/493.m3u8
+#EXTINF:-1 tvg-id="BeINSports1(src01).fr" tvg-name="beIN SPORTS 1 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="All Channels",beIN SPORTS 1 France
+https://daddy.nayeem-parvez.workers.dev/116.m3u8
+#EXTINF:-1 tvg-id="BeINSports2(src01).fr" tvg-name="beIN SPORTS 2 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="All Channels",beIN SPORTS 2 France
+https://daddy.nayeem-parvez.workers.dev/117.m3u8
+#EXTINF:-1 tvg-id="BeINSports3(src01).fr" tvg-name="beIN SPORTS 3 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="All Channels",beIN SPORTS 3 France
+https://daddy.nayeem-parvez.workers.dev/118.m3u8
+#EXTINF:-1 tvg-id="BeINSportsMAX4(src01).fr" tvg-name="beIN Sports MAX 4 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="All Channels",beIN Sports MAX 4 France
+https://daddy.nayeem-parvez.workers.dev/494.m3u8
+#EXTINF:-1 tvg-id="BeINSportsMAX5(src01).fr" tvg-name="beIN Sports MAX 5 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="All Channels",beIN Sports MAX 5 France
+https://daddy.nayeem-parvez.workers.dev/495.m3u8
+#EXTINF:-1 tvg-id="BeINSportsMAX6(src01).fr" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="All Channels",beIN Sports MAX 6 France
+https://daddy.nayeem-parvez.workers.dev/496.m3u8
+#EXTINF:-1 tvg-id="BeINSportsMAX7(src01).fr" tvg-name="beIN Sports MAX 7 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="All Channels",beIN Sports MAX 7 France
+https://daddy.nayeem-parvez.workers.dev/497.m3u8
+#EXTINF:-1 tvg-id="BeINSportsMAX8(src01).fr" tvg-name="beIN Sports MAX 8 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="All Channels",beIN Sports MAX 8 France
+https://daddy.nayeem-parvez.workers.dev/498.m3u8
+#EXTINF:-1 tvg-id="BeINSportsMAX9(src01).fr" tvg-name="beIN Sports MAX 9 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="All Channels",beIN Sports MAX 9 France
+https://daddy.nayeem-parvez.workers.dev/499.m3u8
+#EXTINF:-1 tvg-id="BeINSportsMAX10(src01).fr" tvg-name="beIN Sports MAX 10 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" group-title="All Channels",beIN Sports MAX 10 France
+https://daddy.nayeem-parvez.workers.dev/500.m3u8
 
 
 
