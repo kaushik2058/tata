@@ -1,3 +1,75 @@
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="All Channels",SSC Sport 1
+https://daddy.nayeem-parvez.workers.dev/614.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="All Channels",SSC Sport 2
+https://daddy.nayeem-parvez.workers.dev/615.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="All Channels",SSC Sport 3
+https://daddy.nayeem-parvez.workers.dev/616.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="All Channels",SSC Sport 4
+https://daddy.nayeem-parvez.workers.dev/617.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="All Channels",SSC Sport 5
+https://daddy.nayeem-parvez.workers.dev/618.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="All Channels",SSC Sport Extra 1
+https://daddy.nayeem-parvez.workers.dev/619.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="All Channels",SSC Sport Extra 2
+https://daddy.nayeem-parvez.workers.dev/620.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="All Channels",SSC Sport Extra 3
+https://daddy.nayeem-parvez.workers.dev/621.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="All Channels",Arena Sport 1 Croatia
+https://daddy.nayeem-parvez.workers.dev/432.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-2-hr.png" group-title="All Channels",Arena Sport 2 Croatia
+https://daddy.nayeem-parvez.workers.dev/433.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-3-hr.png" group-title="All Channels",Arena Sport 3 Croatia
+https://daddy.nayeem-parvez.workers.dev/434.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-4-hr.png" group-title="All Channels",Arena Sport 4 Croatia
+https://daddy.nayeem-parvez.workers.dev/580.m3u8
+#EXTINF:-1 tvg-id="Arena.sport.1.cz" tvg-name="Arena Sport 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="All Channels",Arena Sport 1 Premium
+https://daddy.nayeem-parvez.workers.dev/134.m3u8
+#EXTINF:-1 tvg-id="Arena.sport.2.cz" tvg-name="Arena Sport 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="All Channels",Arena Sport 2 Premium
+https://daddy.nayeem-parvez.workers.dev/135.m3u8
+#EXTINF:-1 tvg-id="Arena.sport.3.cz" tvg-name="Arena Sport 3 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="All Channels",Arena Sport 3 Premium
+https://daddy.nayeem-parvez.workers.dev/139.m3u8
+#EXTINF:-1 tvg-id="SkySportArena(src01).it" tvg-name="Sky Sport Arena Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-arena-it.png" group-title="All Channels",Sky Sport Arena Italy
+https://daddy.nayeem-parvez.workers.dev/462.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-1-rs.png" group-title="All Channels",Arena Sport 1 Serbia
+https://daddy.nayeem-parvez.workers.dev/429.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-2-rs.png" group-title="All Channels",Arena Sport 2 Serbia
+https://daddy.nayeem-parvez.workers.dev/430.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-3-rs.png" group-title="All Channels",Arena Sport 3 Serbia
+https://daddy.nayeem-parvez.workers.dev/431.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-4-rs.png" group-title="All Channels",Arena Sport 4 Serbia
+https://daddy.nayeem-parvez.workers.dev/581.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="121" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="Lifestyle",Tata Play Fitness
 #EXTVLCOPT:http-user-agent=yuvi bhai
 https://tp.yg048.workers.dev/ch/121.m3u8
