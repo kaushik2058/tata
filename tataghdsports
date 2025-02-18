@@ -309,6 +309,18 @@ https://daddy.nayeem-parvez.workers.dev/498.m3u8
 https://daddy.nayeem-parvez.workers.dev/499.m3u8
 #EXTINF:-1 tvg-id="BeINSportsMAX10(src01).fr" tvg-name="beIN Sports MAX 10 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" group-title="All Channels",beIN Sports MAX 10 France
 https://daddy.nayeem-parvez.workers.dev/500.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="All Channels",Abu Dhabi Sports 1 Premium
+https://daddy.nayeem-parvez.workers.dev/609.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="All Channels",Abu Dhabi Sports 2 Premium
+https://daddy.nayeem-parvez.workers.dev/610.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="All Channels",Abu Dhabi Sports 1 UAE
+https://daddy.nayeem-parvez.workers.dev/600.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="All Channels",Abu Dhabi Sports 2 UAE
+https://daddy.nayeem-parvez.workers.dev/601.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="All Channels",Smithsonian Channel
+https://daddy.nayeem-parvez.workers.dev/601.m3u8
+
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="All Channels",Canal+ Sport 1 Afrique
 https://daddy.nayeem-parvez.workers.dev/486.m3u8
 #EXTINF:-1 tvg-id="CANAL+.SPORT.360.fr" tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="All Channels",Canal+ Sport 2 Afrique
@@ -395,6 +407,19 @@ https://daddy.nayeem-parvez.workers.dev/37.m3u8
 https://daddy.nayeem-parvez.workers.dev/36.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="All Channels",Sky Sports F1
 https://daddy.nayeem-parvez.workers.dev/60.m3u8
+#EXTINF:-1 tvg-id="SkySportGolf206768(src01).it" tvg-name="Sky Sports Golf Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-golf-it.png" group-title="All Channels",Sky Sports Golf Italy
+https://daddy.nayeem-parvez.workers.dev/574.m3u8
+#EXTINF:-1 tvg-id="SkySportMotoGP(src01).it" tvg-name="Sky Sport MotoGPv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="All Channels",Sky Sport MotoGPv
+https://daddy.nayeem-parvez.workers.dev/575.m3u8
+#EXTINF:-1 tvg-id="SkySportTennis205559(src01).it" tvg-name="Sky Sport Tennis Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="All Channels",Sky Sport Tennis Italy
+https://daddy.nayeem-parvez.workers.dev/576.m3u8
+#EXTINF:-1 tvg-id="SkySportF1207478(src01).it" tvg-name="Sky Sport F1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="All Channels",Sky Sport F1 Italy
+https://daddy.nayeem-parvez.workers.dev/577.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Football Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-football-it.png" group-title="All Channels",Sky Sport Football Italy
+https://daddy.nayeem-parvez.workers.dev/460.m3u8
+#EXTINF:-1 tvg-id="SkySportUno(src01).it" tvg-name="Sky Sport UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="All Channels",Sky Sport UNO Italy
+https://daddy.nayeem-parvez.workers.dev/461.m3u8
+
 
 #EXTINF:-1 tvg-id="VARIETY.1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="All Channels",SuperSport Variety 1
 https://daddy.nayeem-parvez.workers.dev/416.m3u8
@@ -429,6 +454,47 @@ https://daddy.nayeem-parvez.workers.dev/570.m3u8
 https://daddy.nayeem-parvez.workers.dev/540.m3u8
 #EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/porto-canal-pt.png" group-title="All Channels",Porto Canal
 https://daddy.nayeem-parvez.workers.dev/718.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Viaplay Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="All Channels",Viaplay Sports 1
+https://daddy.nayeem-parvez.workers.dev/451.m3u8
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Viaplay Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="All Channels",Viaplay Sports 2
+https://daddy.nayeem-parvez.workers.dev/550.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OnTime Sports" tvg-logo="https://i.imgur.com/fUE3iHJ.png" group-title="All Channels",OnTime Sports
+https://daddy.nayeem-parvez.workers.dev/611.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OnTime Sports 2" tvg-logo="https://i.imgur.com/fUE3iHJ.png" group-title="All Channels",OnTime Sports 2
+https://daddy.nayeem-parvez.workers.dev/612.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.(TNTS3).cl" tvg-name="TNT Sports HD Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="All Channels",TNT Sports HD Chile
+https://daddy.nayeem-parvez.workers.dev/642.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports PK" tvg-logo="https://i.imgur.com/WIchS6G.png" group-title="All Channels",Ten Sports PK
+https://daddy.nayeem-parvez.workers.dev/741.m3u8
+#EXTINF:-1 tvg-id="TVA.Sports.ca" tvg-name="TVA Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png" group-title="All Channels",TVA Sports
+https://daddy.nayeem-parvez.workers.dev/833.m3u8
+#EXTINF:-1 tvg-id="TVA.Sports.2.ca" tvg-name="TVA Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png" group-title="All Channels",TVA Sports 2
+https://daddy.nayeem-parvez.workers.dev/834.m3u8
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="Win Sports+ Columbia" tvg-logo="https://i.imgur.com/wLTqT4Q.png" group-title="All Channels",Win Sports+ Columbia
+https://daddy.nayeem-parvez.workers.dev/392.m3u8
+#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-name="Spectrum Sportsnet LA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="All Channels",Spectrum Sportsnet LA
+https://daddy.nayeem-parvez.workers.dev/764.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="All Channels",Sportsnet 360
+https://daddy.nayeem-parvez.workers.dev/409.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-name="Sportsnet East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="All Channels",Sportsnet East
+https://daddy.nayeem-parvez.workers.dev/408.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="SportsNet New York (SNY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="All Channels",SportsNet New York (SNY)
+https://daddy.nayeem-parvez.workers.dev/759.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="All Channels",Sportsnet One
+https://daddy.nayeem-parvez.workers.dev/411.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet Ontario" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="All Channels",Sportsnet Ontario
+https://daddy.nayeem-parvez.workers.dev/406.m3u8
+#EXTINF:-1 group-title="All Channels",SportsNet Pittsburgh
+https://daddy.nayeem-parvez.workers.dev/922.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="All Channels",Sportsnet West
+https://daddy.nayeem-parvez.workers.dev/407.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="All Channels",Sportsnet World
+https://daddy.nayeem-parvez.workers.dev/410.m3u8
+
+
 
 
 
